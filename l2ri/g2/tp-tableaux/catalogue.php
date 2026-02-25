@@ -30,7 +30,7 @@ $catalogue = [
     [
         'nom' => 'Produit 5',
         'prix' => 2500,
-        'stock' => 0
+        'stock' => 12
     ]
 ];
 
